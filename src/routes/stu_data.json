@@ -1,14 +1,14 @@
 {
-    "students":[
-        {
-            "name": "admin",
-            "tel": "010 406 414",
-            "projectname": "Food Order",
-            "linkgit": "https://example.git",
-            "linkdeploy": "https://example.render",
-            "time": "12:30pm - 1:45pm",
-            "class": "Web Desig + Jquery",
-            "id": 1
-          }
-    ]
+  "students": [
+    {
+      "name": "admin",
+      "tel": "010 406 414",
+      "projectname": "Food Order",
+      "linkgit": "https://example.git",
+      "linkdeploy": "https://example.render",
+      "time": "12:30pm - 1:45pm",
+      "class": "Web Desig + Jquery",
+      "id": 1
+    }
+  ]
 }

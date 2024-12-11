@@ -8,6 +8,7 @@ const {config} = require('dotenv')
 config();
 
 server.use(cors())
+server.use(jsonServer.bodyParser);
 server.use(middleware);
 server.use(route);
 
