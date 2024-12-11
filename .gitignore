@@ -46,6 +46,3 @@ coverage/
 __pycache__/
 *.py[cod]
 *.pyo
-
-# Others
-Thumbs.db

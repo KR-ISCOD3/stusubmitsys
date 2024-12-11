@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "name": "admin",
+      "tel": "010 406 414",
+      "course": "Web Desig + Jquery",
+      "time": "12:30pm - 1:45pm",
+      "project_name": "Food Order",
+      "gitlink": "https://example.git",
+      "linkdeploy": "https://example.render",
+      "id": 1
+    }
+  ]
+}
